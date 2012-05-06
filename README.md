@@ -30,6 +30,8 @@ TODO
 * Flattr button on img hover
 * <atom:link rel="self">
 
+* Embedabble Widget
+
 * Storage app
 ** Avoid dup connections to 1 HTTP server (IP)
 ** Fair queueing
