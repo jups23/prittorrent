@@ -16,6 +16,7 @@ TODO
 * Zlib for UI
 
 * Login
+** https w/ cowboy_ssl_transport
 ** Signup
 ** Session management
 ** Logged in indicator
